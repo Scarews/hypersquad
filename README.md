@@ -1,0 +1,2 @@
+# hypersquad
+HyperSquad official bot
